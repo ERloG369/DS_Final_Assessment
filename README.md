@@ -2,10 +2,13 @@
 Welcome to the DS_Final_Assessment repository, the central hub for our machine learning model focused on predicting weather-related flight delays. This repository houses the datasets, Jupyter notebooks, and relevant assets pivotal to our study.
 
 Repository Architecture
-DS_Final_Assessment/
+DS_Final_Assessment
+
 │
 └── data/ # The primary data store utilized for our investigations
+
 ├── combined_csv_v1.csv # A consolidated CSV file capturing flight details for analysis
+
 └── combined_csv_v2.csv # An enhanced version of the consolidated flight data CSV
 
 Getting started
